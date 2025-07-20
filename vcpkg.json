@@ -1,0 +1,10 @@
+{
+  "name": "path-planning-analyzer",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "ompl",
+    "sfml",
+    "boost"
+  ],
+  "builtin-baseline": "4a7134c7a5229c922513f56e9c4021703d1544a4"
+}
